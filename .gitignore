@@ -18,7 +18,7 @@ ml/
 
 # Data folders
 data/
-outputs
+outputs/
 
 # Models
 models/
