@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.egg-info/
+*.egg
+
+# Virtual environment
+env/
+venv/
+ml/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Data folders
+data/
+outputs/generated/
+outputs/pseudo_labeled/
+
+# Models
+models/
+
+# Logs
+*.log
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
