@@ -18,8 +18,7 @@ ml/
 
 # Data folders
 data/
-outputs/generated/
-outputs/pseudo_labeled/
+outputs
 
 # Models
 models/
